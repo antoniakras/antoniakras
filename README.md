@@ -1,7 +1,7 @@
 # 💼 Portfolio Guide
 
 ### 🧩 Algorithms & Data Structures
-  * Sudoku Solver (C++, backtracking, recursion, constraint validation) : [(./sudoku_solver_checker_generator)]
+  * Sudoku Solver (C++, backtracking, recursion, constraint validation) : [(https://github.com/antoniakras/sudoku_solver_checker_generator)]
   * C++ to JSON Translator (parsing, data structures) : []
 
 ### 🛢️ SQL & Backend Systems
