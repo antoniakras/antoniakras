@@ -23,7 +23,7 @@
   * Semantic Video Search (Thesis – placeholder repo w/ README, diagrams, benchmarks)
 
 ---
-## 📌 Pinned Repos
+# 📌 Pinned Repos
 Check my pinned repos for quick access to my **most impactful projects**.  
 ---
 
