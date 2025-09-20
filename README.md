@@ -16,14 +16,11 @@
 
 ### 🖥️ Systems & Low-Level Engineering
   * **POSIX Threads** & Semaphores (concurrency simulation, FIFO sync) 
-  * Linux Kernel System Calls (custom syscalls, QEMU) 
+  * Linux Kernel System Calls (custom syscalls, QEMU)
+  * Check my pinned repos for quick access to my most impactful projects.
   * Custom Compiler Project (lexing, parsing, IR, assembly, binary) 
 
 ### 🤖 AI & Applied Machine Learning
   * Semantic Video Search (Thesis – placeholder repo w/ README, diagrams, benchmarks)
 
 ---
-# 📌 Pinned Repos
-Check my pinned repos for quick access to my **most impactful projects**.  
----
-
