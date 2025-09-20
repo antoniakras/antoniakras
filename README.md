@@ -1,16 +1,16 @@
 # 💼 Portfolio Guide
 
 ### 🧩 Algorithms & Data Structures
-  * Sudoku Solver (C++, backtracking, recursion, constraint validation) : [(https://github.com/antoniakras/sudoku_solver_checker_generator)]
-  * C++ to JSON Translator (parsing, data structures) : []
+  * Sudoku Solver (C++, backtracking, recursion, constraint validation) : (https://github.com/antoniakras/sudoku_solver_checker_generator)
+  * C++ to JSON Translator (parsing, data structures) : ()
 
 ### 🛢️ SQL & Backend Systems
-  * Emergency Room Management (Java Servlets + SQL ) : []
-  * Retail Transactions System (Java + SQL ) : []
+  * Emergency Room Management (Java Servlets + SQL ) : (https://github.com/antoniakras/retail-transactions-system)
+  * Retail Transactions System (Java + SQL ) : (https://github.com/antoniakras/emergency-room-management )
 
 ### ☁️ Cloud - Native & CI/CD 
-  * Django + Docker CI/CD : []
-  * K8s Pods, Jobs & Cron Nginx : []
+  * Django + Docker CI/CD : ()
+  * K8s Pods, Jobs & Cron Nginx : ()
   * K8s HPA Helm Scaling : []
   * K8s CRD Controller & Webhook : []
 
