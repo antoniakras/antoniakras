@@ -1,26 +1,29 @@
 # 💼 Portfolio Guide
 
 ### 🧩 Algorithms & Data Structures
-  * Sudoku Solver (C++, backtracking, recursion, constraint validation) : (https://github.com/antoniakras/sudoku_solver_checker_generator)
-  * C++ to JSON Translator (parsing, data structures) : ()
+  * Sudoku Solver (C++, backtracking, recursion, constraint validation) 
+  * C++ to JSON Translator (parsing, data structures) 
 
 ### 🛢️ SQL & Backend Systems
-  * Emergency Room Management (Java Servlets + SQL ) : (https://github.com/antoniakras/retail-transactions-system)
-  * Retail Transactions System (Java + SQL ) : (https://github.com/antoniakras/emergency-room-management )
-
+  * Emergency Room Management (Java Servlets + SQL )
+  * Retail Transactions System (Java + SQL )
+    
 ### ☁️ Cloud - Native & CI/CD 
-  * Django + Docker CI/CD : ()
-  * K8s Pods, Jobs & Cron Nginx : ()
-  * K8s HPA Helm Scaling : []
-  * K8s CRD Controller & Webhook : []
+  * Django + **Docker CI/CD** 
+  * K8s Pods, Jobs & Cron Nginx 
+  * K8s **HPA Helm Scaling** 
+  * K8s CRD Controller & Webhook 
 
 ### 🖥️ Systems & Low-Level Engineering
-  * POSIX Threads & Semaphores (concurrency simulation, FIFO sync) : []
-  * Linux Kernel System Calls (custom syscalls, QEMU) : []
-  * Custom Compiler Project (lexing, parsing, IR, assembly, binary) : []
+  * **POSIX Threads** & Semaphores (concurrency simulation, FIFO sync) 
+  * Linux Kernel System Calls (custom syscalls, QEMU) 
+  * Custom Compiler Project (lexing, parsing, IR, assembly, binary) 
 
 ### 🤖 AI & Applied Machine Learning
   * Semantic Video Search (Thesis – placeholder repo w/ README, diagrams, benchmarks)
 
+---
+## 📌 Pinned Repos
+Check my pinned repos for quick access to my **most impactful projects**.  
 ---
 
